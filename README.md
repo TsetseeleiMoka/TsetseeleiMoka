@@ -5,9 +5,13 @@ Aspiring Data Analyst
 ---------------------
 
 I'm an aspiring Data Analyst with a passion for uncovering insights and solving problems through data. 
-You can call me Moka. 😊 
-I began my career as a customer-facing professional, honing my communication and problem-solving skills across various roles. My experiences in the hospitality industry helped me develop a deep passion for customer service, teaching me the importance of delivering exceptional service and building lasting relationships. 
+
+You can call me Moka. 😊
+
+I began my career as a customer-facing professional, honing my communication and problem-solving skills across various roles. My experiences in the hospitality industry helped me develop a deep passion for customer service, teaching me the importance of delivering exceptional service and building lasting relationships.
+
 Currently, I am transitioning into data analytics as I complete a comprehensive bootcamp, gaining proficiency in essential tools such as Excel, Tableau, Power BI, SQL, Azure, Python, and R. This program is equipping me with the technical expertise needed to translate complex data into actionable insights, complementing my strong background in customer service. 
+
 Looking ahead, I’m excited to blend my customer-facing experience with my analytical skills to help make data-driven decisions in a collaborative team. I’m eager to contribute to a creative workplace where I can grow both personally and professionally alongside a great team. Feel free to reach out, I'm always happy to meet new people.
 
 * 🌍  I'm based in London
@@ -34,7 +38,5 @@ Looking ahead, I’m excited to blend my customer-facing experience with my anal
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/TsetseeleiMoka"><img src="https://github-readme-stats.vercel.app/api?username=TsetseeleiMoka&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="TsetseeleiMoka's GitHub stats" /></a>
-
-<a href="http://www.github.com/TsetseeleiMoka"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=TsetseeleiMoka&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/TsetseeleiMoka" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsetseeleiMoka&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
