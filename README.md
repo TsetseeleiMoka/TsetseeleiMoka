@@ -4,7 +4,7 @@ Hi! You can call me Moka 😊
 ![Github banner](https://github.com/user-attachments/assets/fa5d01ac-f399-4bb6-91a5-3909f16f5535)
 
 
-A little bit about me:
+A little bit about me,
 ---------------------
 
 I'm an aspiring Data Analyst with a passion for uncovering insights and solving problems through data. 
@@ -17,9 +17,10 @@ Looking ahead, I’m excited to blend my customer-facing experience with my anal
 
 *   I'm based in London
 *   You can contact me at [moko.bayar@gmail.com](mailto:moko.bayar@gmail.com)
-*   Or if you'd prefer, feel free to reach out on Linkedin below!
+*   Or if you'd prefer, feel free to reach out on Linkedin: <a href="https://www.linkedin.com/in/tsetseelei-s-53139a2ba/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="20" height="20" /> </picture> </a></p>
+</div><br /><br />
 
-<a href="https://www.linkedin.com/in/tsetseelei-s-53139a2ba/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
 
 ### Skills
 
@@ -33,24 +34,13 @@ Looking ahead, I’m excited to blend my customer-facing experience with my anal
   <a href="[https://public.tableau.com/app/profile/tsetseelei.sainbayar]" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/download/354428/tableau-icon.svg" width="36" height="36" alt="Tableau" style="margin-right: 10px;" /></a>
   <a href="https://app.powerbi.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="36" height="36" alt="PowerBI" /></a>
 </p>
+</div><br /><br />
 
-changes
 
-<p align="left">
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="R Language" 
-    style="transition: transform 0.3s, filter 0.3s; filter: brightness(1);"
-    onmouseover="this.style.transform='scale(1.2)'; this.style.filter='brightness(1.5)';"
-    onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" 
-    style="transition: transform 0.3s, filter 0.3s; filter: brightness(1);"
-    onmouseover="this.style.transform='scale(1.2)'; this.style.filter='brightness(1.5)';"
-    onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';" />
-  </a>
-  <!-- Add other icons similarly -->
-</p>
+
+### Top Repositories
+
+<div width="100%" align="center"><a href="https://github.com/TsetseeleiMoka/SQL-Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TsetseeleiMoka&repo=SQL-Project&title_color=facc15&text_color=facc15&icon_color=facc15&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 
 
