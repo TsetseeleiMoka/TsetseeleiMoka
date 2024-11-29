@@ -34,9 +34,9 @@ Looking ahead, I’m excited to blend my customer-facing experience with my anal
   <a href="[https://public.tableau.com/app/profile/tsetseelei.sainbayar]" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/download/354428/tableau-icon.svg" width="36" height="36" alt="Tableau" style="margin-right: 10px;" /></a>
   <a href="https://app.powerbi.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="36" height="36" alt="PowerBI" /></a>
 </p>
+
+![Copy of tsetseelei](https://github.com/user-attachments/assets/fc4bdfc8-53e7-40e7-afe5-59e8fb1904d8)
 </div><br /><br />
-
-
 
 ### Top Repositories
 
@@ -54,3 +54,10 @@ Looking ahead, I’m excited to blend my customer-facing experience with my anal
 
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+
+
+changes:
+### Guestbook
+Want to leave a message? Visit my [Guestbook Discussion](https://github.com/username/repository/discussions/1) and share your thoughts!
+
