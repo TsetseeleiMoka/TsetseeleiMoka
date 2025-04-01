@@ -55,7 +55,6 @@ Looking ahead, I’m excited to blend my customer-facing experience with my anal
   <img src="https://github-readme-stats.vercel.app/api?username=TsetseeleiMoka&show_icons=true&title_color=facc15&text_color=facc15&icon_color=facc15&bg_color=ffffff&hide_border=true&locale=en" />
 </div>
 
-changes:
 ### Guestbook
 Want to leave a message? Visit my [Guestbook Discussion](https://github.com/username/repository/discussions/1) and share your thoughts!
 
