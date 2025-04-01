@@ -38,24 +38,22 @@ Looking ahead, I’m excited to blend my customer-facing experience with my anal
 ![Copy of tsetseelei](https://github.com/user-attachments/assets/fc4bdfc8-53e7-40e7-afe5-59e8fb1904d8)
 </div><br /><br />
 
+
 ### Top Repositories
 
-<div width="100%" align="center"><a href="https://github.com/TsetseeleiMoka/SQL-Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TsetseeleiMoka&repo=SQL-Project&title_color=facc15&text_color=facc15&icon_color=facc15&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  
+  <a href="https://github.com/TsetseeleiMoka/EDA-Project">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TsetseeleiMoka&repo=EDA-Project&title_color=facc15&text_color=facc15&icon_color=facc15&bg_color=ffffff&hide_border=true&locale=en" />
+  </a>
+</div>
 
 
 ### My GitHub Stats
 
-
-<a href="http://www.github.com/TsetseeleiMoka"><img src="https://github-readme-stats.vercel.app/api?username=TsetseeleiMoka&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=facc15&icon_color=facc15&bg_color=ffffff&hide_border=true&show_icons=true" alt="TsetseeleiMoka's GitHub stats" /></a>
-
-<a href="http://www.github.com/TsetseeleiMoka"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TsetseeleiMoka&stroke=facc15&background=ffffff&ring=facc15&fire=facc15&currStreakNum=facc15&currStreakLabel=facc15&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
-
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
-
-
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=TsetseeleiMoka&show_icons=true&title_color=facc15&text_color=facc15&icon_color=facc15&bg_color=ffffff&hide_border=true&locale=en" />
+</div>
 
 changes:
 ### Guestbook
