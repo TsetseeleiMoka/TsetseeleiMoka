@@ -7,13 +7,13 @@ Hi! You can call me Moka 😊
 A little bit about me,
 ---------------------
 
-I'm an aspiring Data Analyst with a passion for uncovering insights and solving problems through data. 
+I’m a Data Analyst with a passion for uncovering insights and solving problems through data.
 
-I began my career as a customer-facing professional, honing my communication and problem-solving skills across various roles. My experiences in the hospitality industry helped me develop a deep passion for customer service, teaching me the importance of delivering exceptional service and building lasting relationships.
+My career started in customer-facing roles, where I developed strong communication and problem-solving skills. Working in hospitality taught me the value of great service, building meaningful relationships, and how understanding people can make all the difference.
 
-Currently, I am transitioning into data analytics as I complete a comprehensive bootcamp, gaining proficiency in essential tools such as Excel, Tableau, Power BI, SQL, Azure, Python, and R. This program is equipping me with the technical expertise needed to translate complex data into actionable insights, complementing my strong background in customer service. 
+Now, I’m diving into data analytics through an intensive academy, gaining hands-on experience with Excel, Tableau, Power BI, SQL, Azure, Python, and R. It’s been an exciting journey learning how to turn raw data into valuable insights, and I love how it blends my analytical mindset with my background in customer experience.
 
-Looking ahead, I’m excited to blend my customer-facing experience with my analytical skills to help make data-driven decisions in a collaborative team. I’m eager to contribute to a creative workplace where I can grow both personally and professionally alongside a great team. Feel free to reach out, I'm always happy to meet new people.
+I’m excited to bring these skills into a collaborative team, helping businesses make smart, data-driven decisions. I thrive in creative environments where I can grow, learn, and contribute alongside great people. Let’s connect—I’m always happy to chat!
 
 *   I'm based in London
 *   You can contact me at [moko.bayar@gmail.com](mailto:moko.bayar@gmail.com)
@@ -55,6 +55,4 @@ Looking ahead, I’m excited to blend my customer-facing experience with my anal
   <img src="https://github-readme-stats.vercel.app/api?username=TsetseeleiMoka&show_icons=true&title_color=facc15&text_color=facc15&icon_color=facc15&bg_color=ffffff&hide_border=true&locale=en" />
 </div>
 
-### Guestbook
-Want to leave a message? Visit my [Guestbook Discussion](https://github.com/username/repository/discussions/1) and share your thoughts!
 
